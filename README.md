@@ -18,11 +18,10 @@ Hello! I'm Himanshu Singh, a passionate Backend Developer and Java Programmer, c
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## My Contribution Graph
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/pacman-contribution-graph.svg">
 </picture>
 
 [![](https://visitcount.itsvg.in/api?id=himanshu-21-0&icon=0&color=0)](https://visitcount.itsvg.in)
