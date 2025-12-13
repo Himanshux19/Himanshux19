@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Himanshu%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
 # 💫 About Me:
 Hello! I'm Himanshu Singh, a passionate Backend Developer and Java Programmer, currently pursuing B.Tech in CSE at ABESIT, Ghaziabad.<br><br>I specialize in Java and Backend Development with frameworks like Spring Boot. I love optimizing systems with a strong focus on time and space efficiency, having solved 500+ problems on platforms like CodeChef and Leetcode.
 
@@ -18,9 +20,9 @@ Hello! I'm Himanshu Singh, a passionate Backend Developer and Java Programmer, c
 ## My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/himanshu-21-0/himanshu-21-0/output/github-snake.svg" />
 </picture>
 
 [![](https://visitcount.itsvg.in/api?id=himanshu-21-0&icon=0&color=0)](https://visitcount.itsvg.in)
