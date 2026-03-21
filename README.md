@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Himanshu%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 # 💫 About Me: 
-Hello! I'm Himanshu Singh, a passionate Backend Developer and Java Programmer, currently pursuing B.Tech in CSE at ABESIT, Ghaziabad.<br><br>I specialize in Java and Backend Development with frameworks like Spring Boot. I love optimizing systems with a strong focus on time and space efficiency, having solved 500+ problems on platforms like CodeChef and Leetcode.
+Hello! I'm Himanshu Singh, a passionate Backend Developer and Java Programmer, currently pursuing B.Tech in CSE at ABESIT, Ghaziabad.<br><br>I specialize in Java and Backend Development with frameworks like Spring Boot. I love optimizing systems with a strong focus on time and space efficiency, having solved 500+ problems on platforms like GeeksforGeeks and Leetcode.
 
 
 ## 🌐 Socials:
