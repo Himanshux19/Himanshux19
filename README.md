@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Himanshu%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20,29&text=Himanshu%20Singh&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Competitive+Programmer;Open+Source+Contributor"/>
 
 # 💫 About Me: 
-Hello! I'm Himanshu Singh, a passionate Full Stack Developer and Java Programmer, currently pursuing B.Tech in CSE at ABESIT, Ghaziabad.<br><br>I specialize in Java and React.js and Backend Development with frameworks like Spring Boot. I love optimizing systems with a strong focus on time and space efficiency, focused on building scalable and high performance applications. Solved over 600 problems on platforms like GeeksforGeeks and Leetcode.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+Hello! I'm _Himanshu Singh_, a passionate Full Stack Developer and Java Programmer, currently pursuing B.Tech in CSE at ABESIT, Ghaziabad.<br><br>I specialize in Java and React.js and Backend Development with frameworks like Spring Boot. I love optimizing systems with a strong focus on time and space efficiency, focused on building scalable and high performance applications. Solved over 600 problems on platforms like GeeksforGeeks and Leetcode.
 
 
 ## 🌐 Socials:
