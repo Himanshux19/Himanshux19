@@ -70,23 +70,29 @@ Hello! I'm _Himanshu Singh_, a passionate Full Stack Developer and Java Programm
 </div>
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Himanshux19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Himanshux19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Himanshux19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=Himanshux19&theme=tokyonight&hide_border=true" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshux19&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshux19&theme=tokyo-night&hide_border=true&area=true" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshux19&theme=tokyonight"/>
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himanshux19&theme=tokyonight"/>
 
 </div>
 
