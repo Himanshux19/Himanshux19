@@ -97,9 +97,13 @@ Hello! I'm _Himanshu Singh_, a passionate Full Stack Developer and Java Programm
 </div>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
 
-## My Contribution Graph
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+
+</div>
+
+## 👾 Contribution Activity
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshux19/himanshux19/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshux19/himanshux19/output/pacman-contribution-graph.svg">
@@ -107,3 +111,11 @@ Hello! I'm _Himanshu Singh_, a passionate Full Stack Developer and Java Programm
 </picture>
 
 [![](https://visitcount.itsvg.in/api?id=himanshux19&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,29"/>
+
+</div>
