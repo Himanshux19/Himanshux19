@@ -114,8 +114,6 @@ Hello! I'm _Himanshu Singh_, a passionate Full Stack Developer and Java Programm
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,29"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,29&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 
 </div>
