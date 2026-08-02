@@ -51,7 +51,7 @@ Hello! I'm _Himanshu Singh_, a passionate Full Stack Developer and Java Programm
 <br>
 
 ### ☁️ DevOps • Cloud • Deployment
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,vercel,netlify" />
 
 <br>
 
