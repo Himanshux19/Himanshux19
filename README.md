@@ -6,7 +6,7 @@
 
 Hi, I'm _Himanshu Singh_, a passionate _**Java & Full Stack Developer**_ and B.Tech CSE student at ABESIT, Ghaziabad. I enjoy building scalable, high-performance applications and solving real-world problems through clean and efficient code.<br><br>
 I specialize in _**Java, Spring Boot, Backend Development, and Web Technologies**_, with a strong focus on DSA, system performance, and optimization. I’m constantly learning and exploring new technologies to strengthen my development and engineering skills.<br><br>
-I’ve solved 700+ DSA problems across platforms like LeetCode and GeeksforGeeks, and I enjoy turning challenging problems into efficient solutions.
+I’ve solved 750+ DSA problems across platforms like LeetCode and GeeksforGeeks, and I enjoy turning challenging problems into efficient solutions.
 
 ## 🌐 Connect with Me:
 
